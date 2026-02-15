@@ -7,6 +7,10 @@
 ![Framework](https://img.shields.io/badge/Framework-LangChain_|_LangGraph-0066CC)
 ![UI](https://img.shields.io/badge/UI-Gradio-EE3377)
 
+<!-- 
+This project leverages Retrieval-Augmented Generation (RAG) to provide accurate answers about university disciplinary policies by extracting information directly from official PDF documents. It ensures total reliability by citing specific clauses and strictly grounding its responses in the retrieved text to eliminate hallucinations or invented facts.
+-->
+
 ## 🔍 What It Does
 
 This project builds an AI assistant that answers questions about university disciplinary policies using **Retrieval-Augmented Generation (RAG)**. Instead of guessing or making up information, it:
